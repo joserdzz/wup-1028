@@ -1,4 +1,4 @@
-# WUP-028 Pico 1000 Hz Bridge
+# WUP-1028
 
 Firmware para Raspberry Pi Pico que overclockea por USB-A el adaptador fisico de Controles de Nintendo GameCube, pensado específicamente para los adaptadores que no se overclockean por Software.
 ## Cableado
