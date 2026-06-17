@@ -1,6 +1,9 @@
 # WUP-1028
 
 Firmware para Raspberry Pi Pico que overclockea por USB-A el adaptador fisico de Controles de Nintendo GameCube, pensado específicamente para los adaptadores que no se overclockean por Software.
+
+<img src="src/proof.png" width="480" />
+
 ## Cableado
 
 - USB-A `D+` a `GP2`
