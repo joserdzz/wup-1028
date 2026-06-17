@@ -1,0 +1,10 @@
+build/
+build-fw/
+.github/
+.specify/
+.vscode/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
