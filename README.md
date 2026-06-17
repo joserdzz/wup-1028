@@ -1,4 +1,4 @@
-<img src="src/logo.png" width="480" />
+<img src="src/logo.svg" width="480" />
 
 Firmware para Raspberry Pi Pico que overclockea por USB-A el adaptador fisico de Controles de Nintendo GameCube, pensado específicamente para los adaptadores que no se overclockean por Software.
 
